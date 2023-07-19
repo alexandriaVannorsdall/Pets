@@ -1,0 +1,15 @@
+{
+    "name": "alexandria.vannorsdall/pets",
+    "authors": [
+        {
+            "name": "G4MAlexVannorsdall",
+            "email": "94846507+G4MAlexVannorsdall@users.noreply.github.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {"PetApp\\": "src/"}
+    }
+}

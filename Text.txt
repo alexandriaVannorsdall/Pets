@@ -1,0 +1,5 @@
+Tofu,cat,bagels,white,gloves,parents bed
+Kimchi,hamster,banana,cinnamon,wheel,burrow
+Oslo,cat,chicken,black and white,floppy fish,teepee
+Orla,hamster,greens,cream,hedgehog,multichamber
+Heidi,dog,chicken,yellow,

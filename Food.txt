@@ -1,0 +1,7 @@
+bagels, £1
+banana, £0.70
+greens, £2
+biscuits, £6
+baby food, £1
+chicken, £2
+oats, £1
